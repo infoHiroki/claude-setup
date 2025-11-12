@@ -36,9 +36,9 @@ Claude Code を**Claude Code 自身に設定してもらう**ための初心者�
 - 初めて Claude Code を使う
 
 **特徴:**
-- 最小限の制限
+- 制限なし
 - Claude Code の力を最大限発揮
-- `.git` フォルダだけ保護
+- 確認は取る（安心）
 
 ### setup-secure.md - セキュア版 🔒
 
